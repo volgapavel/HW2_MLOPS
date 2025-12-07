@@ -2,3 +2,14 @@
 .cursor/
 .cursorrules
 
+# IDE / History
+.history/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+

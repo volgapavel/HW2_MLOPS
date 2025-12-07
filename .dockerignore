@@ -1,0 +1,42 @@
+# Git
+.git/
+.gitignore
+
+# IDE
+.cursor/
+.history/
+.vscode/
+.idea/
+*.code-workspace
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+.venv/
+venv/
+env/
+.env
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Build
+*.egg-info/
+dist/
+build/
+
+# Misc
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+
+# Training script (not needed in container)
+train_model.py
+
